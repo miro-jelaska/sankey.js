@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1301" height="352" viewBox="0 0 1301 352">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1221" y1="71" x2="1301" y2="71" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2cc1f0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1221" y1="221.5" x2="1301" y2="221.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2cc1f0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="146" x2="98" y2="146" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#fdfdfd" stop-opacity="0.02"/>
+      <stop offset="0.41" stop-color="#f8f8f8" stop-opacity="0.07"/>
+      <stop offset="0.54" stop-color="#efeff0" stop-opacity="0.16"/>
+      <stop offset="0.66" stop-color="#e2e3e3" stop-opacity="0.29"/>
+      <stop offset="0.77" stop-color="#d1d2d3" stop-opacity="0.46"/>
+      <stop offset="0.87" stop-color="#bdbec0" stop-opacity="0.66"/>
+      <stop offset="0.97" stop-color="#a5a6a9" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#9b9da0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="41" y1="303" x2="139" y2="303" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <title>Asset 6</title>
+  <g style="isolation: isolate">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <path d="M1301,71h-80" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;stroke: url(#linear-gradient)"/>
+          <path d="M1121,232.5c-40,0-40,41-80,41" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 20px"/>
+          <path d="M861,79.5c40,0,40,22,80,22" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 20px"/>
+          <path d="M1121,61.5c-40,0-40,40-80,40" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 20px"/>
+          <rect x="761" y="39.5" width="100" height="100" rx="2" ry="2" style="fill: #9b9da0"/>
+          <rect x="941" y="39.5" width="100" height="123" rx="2" ry="2" style="fill: #9b9da0"/>
+          <rect x="941" y="212.5" width="100" height="100" rx="2" ry="2" style="fill: #9b9da0"/>
+          <rect x="1121" y="212.5" width="100" height="40" rx="2" ry="2" style="fill: #9b9da0"/>
+          <rect x="1121" y="40" width="100" height="62" rx="2" ry="2" style="fill: #9b9da0"/>
+          <path d="M861,99.5c40,0,40,163,80,163" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 20px"/>
+          <path d="M1121,81.5c-40,0-40,172-80,172" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 20px"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(799.29 101.4)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">A</text>
+            </g>
+            <text transform="translate(798.29 100.4)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">A</text>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(979.97 112.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">B</text>
+            </g>
+            <text transform="translate(978.97 111.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">B</text>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(979.76 274.4)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">C</text>
+            </g>
+            <text transform="translate(978.76 273.4)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">C</text>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(1159.94 82.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">D</text>
+            </g>
+            <text transform="translate(1158.94 81.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">D</text>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(1161.57 246.4)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">E</text>
+            </g>
+            <text transform="translate(1160.57 245.4)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">E</text>
+          </g>
+          <path d="M1301,210.5c-40,0-40,22-80,22" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;stroke: url(#linear-gradient-2)"/>
+        </g>
+        <g style="opacity: 0.75">
+          <path d="M111,313" style="fill: none"/>
+        </g>
+        <g>
+          <circle cx="335" cy="49" r="49" style="fill: #9b9da0"/>
+          <path d="M288.5,269.5" style="fill: none"/>
+          <g>
+            <line x1="374.5" y1="77.5" x2="415.17" y2="107.08" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <polygon points="408.55 109.45 429.5 117.5 415.38 100.05 408.55 109.45" style="fill: #2cc1f0"/>
+          </g>
+          <g>
+            <line x1="350" y1="95" x2="397.46" y2="239.17" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <polygon points="390.7 237.22 403 256 401.74 233.59 390.7 237.22" style="fill: #2cc1f0"/>
+          </g>
+          <g>
+            <line x1="469" y1="146" x2="307.33" y2="263.58" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <polygon points="307.12 256.55 293 274 313.95 265.95 307.12 256.55" style="fill: #2cc1f0"/>
+          </g>
+          <g>
+            <line x1="418" y1="303" x2="319.72" y2="303" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <polygon points="323.68 297.19 302 303 323.68 308.81 323.68 297.19" style="fill: #2cc1f0"/>
+          </g>
+          <g style="opacity: 0.75">
+            <path d="M253,303" style="fill: none"/>
+          </g>
+          <g>
+            <line x1="418" y1="303" x2="256.37" y2="186.37" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <polygon points="262.98 183.97 242 176 256.18 193.4 262.98 183.97" style="fill: #2cc1f0"/>
+          </g>
+          <circle cx="418" cy="303" r="49" style="fill: #9b9da0"/>
+          <circle cx="469" cy="146" r="49" style="fill: #9b9da0"/>
+          <circle cx="49" cy="146" r="49" style="fill: url(#linear-gradient-3)"/>
+          <circle cx="90" cy="303" r="49" style="fill: url(#linear-gradient-4)"/>
+          <g>
+            <line x1="253.5" y1="303" x2="156.25" y2="303" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <polygon points="160.21 297.19 138.53 303 160.21 308.81 160.21 297.19" style="fill: #2cc1f0"/>
+          </g>
+          <g>
+            <line x1="202.69" y1="147" x2="116.22" y2="147" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <polygon points="120.18 141.19 98.5 147 120.18 152.81 120.18 141.19" style="fill: #2cc1f0"/>
+          </g>
+          <circle cx="202" cy="147" r="49" style="fill: #9b9da0"/>
+          <circle cx="253" cy="303" r="49" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(323.29 60.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">A</text>
+            </g>
+            <text transform="translate(322.29 59.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">A</text>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(192.57 158.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">E</text>
+            </g>
+            <text transform="translate(191.57 157.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">E</text>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(241.94 314.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">D</text>
+            </g>
+            <text transform="translate(240.94 313.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">D</text>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(406.76 314.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">C</text>
+            </g>
+            <text transform="translate(405.76 313.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">C</text>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(457.97 157.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">B</text>
+            </g>
+            <text transform="translate(456.97 156.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">B</text>
+          </g>
+        </g>
+        <g>
+          <line x1="580.34" y1="176" x2="693.05" y2="176" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 3px"/>
+          <circle cx="580.9" cy="176" r="11.28" style="fill: #ef6466"/>
+          <polygon points="687.1 184.72 719.63 176 687.1 167.28 687.1 184.72" style="fill: #ef6466"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

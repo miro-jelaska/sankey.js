@@ -1,0 +1,33 @@
+{
+  "name": "plv.js",
+  "description": "Production Line Visualisation framework for JavaScript.",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "production",
+    "line",
+    "visualisation",
+    "framework",
+    "javascript",
+    "js",
+    "opensource",
+    "graph"
+  ],
+  "homepage": "https://github.com/miro-jelaska/sankey.js.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "Miro Jelaska <git@jelaska.com>"
+  ],
+  "dependencies": {
+    "d3": "^4.10.2",
+    "js-enumeration": "^0.2.4",
+    "lodash": "^4.17.4"
+  }
+}

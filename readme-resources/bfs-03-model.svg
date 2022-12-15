@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="348" viewBox="0 0 540 348">
+  <title>bfs-03-model</title>
+  <g style="isolation: isolate">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <line x1="150.5" y1="170.5" x2="93.32" y2="101.63" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="100.32 100.97 82 88 91.38 108.39 100.32 100.97" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="50" y1="50" x2="221.29" y2="53.63" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="217.2 59.35 239 54 217.45 47.73 217.2 59.35" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="50" y1="299" x2="183.29" y2="294.59" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="179.52 300.52 201 294 179.14 288.91 179.52 300.52" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="251" y1="296" x2="422.45" y2="272.41" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="419.31 278.71 440 270 417.73 267.2 419.31 278.71" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="490" y1="263" x2="490" y2="164.72" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="495.81 168.68 490 147 484.19 168.68 495.81 168.68" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="286" y1="54" x2="423.65" y2="82.42" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="418.59 87.31 441 86 420.94 75.93 418.59 87.31" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="354" y1="181" x2="430.94" y2="133.33" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="430.63 140.36 446 124 424.51 130.48 430.63 140.36" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="50" y1="50" x2="291.79" y2="156.84" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="285.82 160.55 308 164 290.52 149.92 285.82 160.55" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="150" y1="174" x2="92.17" y2="245.24" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="90.15 238.5 81 259 99.18 245.83 90.15 238.5" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <g>
+            <path d="M150,219.5A45.5,45.5,0,1,1,195.5,174,45.55,45.55,0,0,1,150,219.5Z" style="fill: #42a1ba"/>
+            <path d="M150,133a41,41,0,1,1-41,41,41,41,0,0,1,41-41m0-9a50,50,0,1,0,50,50,50,50,0,0,0-50-50Z" style="fill: #4d4d4d"/>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(138.29 185.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">A</text>
+            </g>
+            <text transform="translate(137.29 184.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">A</text>
+          </g>
+        </g>
+        <g>
+          <circle cx="354" cy="184" r="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(344.57 195.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">E</text>
+            </g>
+            <text transform="translate(343.57 194.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">E</text>
+          </g>
+        </g>
+        <g>
+          <g style="opacity: 0.75">
+            <path d="M289,54" style="fill: none"/>
+          </g>
+          <circle cx="289" cy="54" r="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(277.94 65.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">D</text>
+            </g>
+            <text transform="translate(276.94 64.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">D</text>
+          </g>
+        </g>
+        <g>
+          <g style="opacity: 0.75">
+            <path d="M490,263" style="fill: none"/>
+          </g>
+          <circle cx="490" cy="263" r="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(477.9 274.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">H</text>
+            </g>
+            <text transform="translate(476.9 273.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">H</text>
+          </g>
+        </g>
+        <g>
+          <g style="opacity: 0.75">
+            <path d="M251,294" style="fill: none"/>
+          </g>
+          <circle cx="251" cy="294" r="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(241.8 305.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">F</text>
+            </g>
+            <text transform="translate(240.8 304.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">F</text>
+          </g>
+        </g>
+        <g>
+          <g style="opacity: 0.75">
+            <path d="M490,97" style="fill: none"/>
+          </g>
+          <circle cx="490" cy="97" r="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(478.29 108.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">G</text>
+            </g>
+            <text transform="translate(477.29 107.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">G</text>
+          </g>
+        </g>
+        <g>
+          <circle cx="50" cy="298" r="50" style="fill: #42a1ba"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(38.76 309.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">C</text>
+            </g>
+            <text transform="translate(37.76 308.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">C</text>
+          </g>
+        </g>
+        <g>
+          <circle cx="50" cy="50" r="50" style="fill: #42a1ba"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(38.97 61.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">B</text>
+            </g>
+            <text transform="translate(37.97 60.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">B</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

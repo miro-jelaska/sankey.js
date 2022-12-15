@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="307.44" height="139.5" viewBox="0 0 307.44 139.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="266.41" y1="62.5" x2="186.41" y2="62.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#42a1ba"/>
+      <stop offset="1" stop-color="#2cc1f0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="266.41" y1="43.25" x2="186.41" y2="43.25" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="266.41" y1="29.75" x2="186.41" y2="29.75" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="266.41" y1="97.25" x2="186.41" y2="97.25" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>flow-height-split</title>
+  <g style="isolation: isolate">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <path d="M186.41,48c40,0,40,29,80,29" style="fill: none;stroke-miterlimit: 10;stroke-width: 15px;stroke: url(#linear-gradient)"/>
+        <path d="M186.41,37c40,0,40,12.5,80,12.5" style="fill: none;stroke-miterlimit: 10;stroke-width: 7.5px;stroke: url(#linear-gradient-2)"/>
+        <path d="M186.41,29.5c40,0,40,.5,80,.5" style="fill: none;stroke-miterlimit: 10;stroke-width: 7.5px;stroke: url(#linear-gradient-3)"/>
+        <rect x="86.41" width="100" height="100" rx="2" ry="2" style="fill: #9b9da0"/>
+        <path d="M186.41,65c40,0,40,64.5,80,64.5" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;stroke: url(#linear-gradient-4)"/>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(124.7 61.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">A</text>
+          </g>
+          <text transform="translate(123.7 60.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">A</text>
+        </g>
+        <text transform="translate(4.69 46.18)" style="font-size: 12px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">100%<tspan x="-4.69" y="14.4">height</tspan></text>
+        <text transform="translate(284.3 34.82)" style="font-size: 12px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">15%</text>
+        <text transform="translate(284.3 53.82)" style="font-size: 12px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">15%</text>
+        <text transform="translate(284.3 81.32)" style="font-size: 12px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">30%</text>
+        <text transform="translate(284.33 133.82)" style="font-size: 12px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">40%</text>
+        <g>
+          <line x1="47.41" y1="33.74" x2="47.41" y2="66.26" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+          <polygon points="44.71 35.58 47.41 25.5 50.11 35.58 44.71 35.58" style="fill: #ef6466"/>
+          <polygon points="44.71 64.42 47.41 74.5 50.11 64.42 44.71 64.42" style="fill: #ef6466"/>
+        </g>
+        <line x1="42.41" y1="75" x2="52.41" y2="75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        <line x1="42.41" y1="25" x2="52.41" y2="25" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        <line x1="56.41" y1="74.5" x2="186.41" y2="74.5" style="fill: none;stroke: #fcb03c;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <line x1="56.41" y1="25" x2="186.41" y2="25" style="fill: none;stroke: #fcb03c;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <g>
+          <g>
+            <line x1="277.14" y1="28.95" x2="277.14" y2="31.52" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+            <polygon points="276.42 29.45 277.14 26.73 277.87 29.45 276.42 29.45" style="fill: #ef6466"/>
+            <polygon points="276.42 31.02 277.14 33.73 277.87 31.02 276.42 31.02" style="fill: #ef6466"/>
+          </g>
+          <line x1="272.14" y1="26.73" x2="282.14" y2="26.73" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+          <line x1="272.14" y1="34" x2="282.14" y2="34" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        </g>
+        <g>
+          <g>
+            <line x1="277.14" y1="47.95" x2="277.14" y2="50.52" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+            <polygon points="276.42 48.45 277.14 45.73 277.87 48.45 276.42 48.45" style="fill: #ef6466"/>
+            <polygon points="276.42 50.02 277.14 52.73 277.87 50.02 276.42 50.02" style="fill: #ef6466"/>
+          </g>
+          <line x1="272.14" y1="45.73" x2="282.14" y2="45.73" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+          <line x1="272.14" y1="53" x2="282.14" y2="53" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        </g>
+        <g>
+          <g>
+            <line x1="277.14" y1="71.95" x2="277.14" y2="81.79" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+            <polygon points="276.42 72.44 277.14 69.73 277.87 72.44 276.42 72.44" style="fill: #ef6466"/>
+            <polygon points="276.42 81.29 277.14 84 277.87 81.29 276.42 81.29" style="fill: #ef6466"/>
+          </g>
+          <line x1="272.14" y1="69.73" x2="282.14" y2="69.73" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+          <line x1="272.14" y1="84" x2="282.14" y2="84" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        </g>
+        <g>
+          <g>
+            <line x1="277.14" y1="121.95" x2="277.14" y2="136.29" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+            <polygon points="276.42 122.44 277.14 119.73 277.87 122.44 276.42 122.44" style="fill: #ef6466"/>
+            <polygon points="276.42 135.79 277.14 138.5 277.87 135.79 276.42 135.79" style="fill: #ef6466"/>
+          </g>
+          <line x1="272.14" y1="119.73" x2="282.14" y2="119.73" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+          <line x1="272.14" y1="139" x2="282.14" y2="139" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

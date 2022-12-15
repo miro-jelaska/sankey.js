@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" hidden="true">
+    <symbol id="buffer-high" viewBox="0 0 54 55.49">
+        <rect class="black" x="0.5" y="0.5" width="53" height="54.49" rx="2.5" ry="2.5"/>
+        <path class="black" d="M51,1a2,2,0,0,1,2,2V52.49a2,2,0,0,1-2,2H3a2,2,0,0,1-2-2V3A2,2,0,0,1,3,1H51m0-1H3A3,3,0,0,0,0,3V52.49a3,3,0,0,0,3,3H51a3,3,0,0,0,3-3V3a3,3,0,0,0-3-3Z"/>
+        <path class="color-high" d="M.5,35.89V3A2.5,2.5,0,0,1,3,.5H51A2.5,2.5,0,0,1,53.5,3V35.89Z"/>
+        <path class="black" d="M51,1a2,2,0,0,1,2,2V35.39H1V3A2,2,0,0,1,3,1H51m0-1H3A3,3,0,0,0,0,3V36.39H54V3a3,3,0,0,0-3-3Z"/>
+        <use width="18.01" height="18.39" transform="translate(17.5 8.59) scale(1.06)" xlink:href="#buffer-icon"/>
+    </symbol>
+</svg>

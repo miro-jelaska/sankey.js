@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="585.5" height="273" viewBox="0 0 585.5 273">
+  <title>Asset 2</title>
+  <g style="isolation: isolate">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g style="opacity: 0.6000000000000001">
+          <g>
+            <line x1="0.75" y1="136.5" x2="3.25" y2="136.5" style="fill: none;stroke: #42a1ba;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+            <line x1="8.07" y1="136.5" x2="49.09" y2="136.5" style="fill: none;stroke: #42a1ba;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px;stroke-dasharray: 38.599998474121094,4.824999809265137"/>
+            <line x1="51.5" y1="136.5" x2="579.84" y2="136.5" style="fill: none;stroke: #42a1ba;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px;stroke-dasharray: 4.824999809265137,4.824999809265137,38.599998474121094,4.824999809265137"/>
+            <line x1="582.25" y1="136.5" x2="584.75" y2="136.5" style="fill: none;stroke: #42a1ba;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+          </g>
+        </g>
+        <rect x="30.75" y="86.5" width="100" height="100" rx="2" ry="2" style="fill: #9b9da0"/>
+        <rect x="210.75" width="100" height="123" rx="2" ry="2" style="fill: #9b9da0"/>
+        <rect x="210.75" y="173" width="100" height="100" rx="2" ry="2" style="fill: #9b9da0"/>
+        <rect x="390.75" y="61" width="100" height="62" rx="2" ry="2" style="fill: #9b9da0"/>
+        <path d="M130.75,147c40,0,40,76,80,76" style="fill: none;stroke: #e4e5e6;stroke-miterlimit: 10;stroke-width: 20px"/>
+        <path d="M210.75,50c-40,0-40,76-80,76" style="fill: none;stroke: #e4e5e6;stroke-miterlimit: 10;stroke-width: 20px"/>
+        <path d="M390.75,102c-40,0-40,111-80,111" style="fill: none;stroke: #e4e5e6;stroke-miterlimit: 10;stroke-width: 20px"/>
+        <path d="M390.75,193c-40,0-40,40-80,40" style="fill: none;stroke: #e4e5e6;stroke-miterlimit: 10;stroke-width: 20px"/>
+        <path d="M310.75,50c40,0,40,32,80,32" style="fill: none;stroke: #e4e5e6;stroke-miterlimit: 10;stroke-width: 20px"/>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(69.04 148.4)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">A</text>
+          </g>
+          <text transform="translate(68.04 147.4)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">A</text>
+        </g>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(249.72 73.4)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">B</text>
+          </g>
+          <text transform="translate(248.72 72.4)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">B</text>
+        </g>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(249.51 234.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">C</text>
+          </g>
+          <text transform="translate(248.51 233.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">C</text>
+        </g>
+        <rect x="390.75" y="173" width="100" height="40" rx="2" ry="2" style="fill: #9b9da0"/>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(431.32 206.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">E</text>
+          </g>
+          <text transform="translate(430.32 205.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">E</text>
+        </g>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(429.69 103.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">D</text>
+          </g>
+          <text transform="translate(428.69 102.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">D</text>
+        </g>
+        <path d="M311.25,273.5" style="fill: none;stroke: #f0f;stroke-miterlimit: 10"/>
+        <path d="M211.25.5" style="fill: none;stroke: #f0f;stroke-miterlimit: 10"/>
+        <path d="M210.25,273.5" style="fill: none;stroke: #f0f;stroke-miterlimit: 10"/>
+        <path d="M373.77,171.18" style="fill: none;stroke: lime;stroke-miterlimit: 10"/>
+        <path d="M391.25,212.5" style="fill: none;stroke: lime;stroke-miterlimit: 10"/>
+        <path d="M490.25,60.5" style="fill: none;stroke: lime;stroke-miterlimit: 10"/>
+      </g>
+    </g>
+  </g>
+</svg>

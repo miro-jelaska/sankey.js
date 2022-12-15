@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="514.6" viewBox="0 0 260 514.6">
+  <defs>
+    <linearGradient id="linear-gradient" x1="159" y1="217.75" x2="218" y2="217.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4e5e6"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="159" y1="268.75" x2="218" y2="268.75" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="180" y1="76.75" x2="260" y2="76.75" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="172" y1="390.75" x2="243" y2="390.75" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" y1="238.75" x2="101" y2="238.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#e4e5e6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" y1="329.75" x2="89" y2="329.75" xlink:href="#linear-gradient-5"/>
+    <linearGradient id="linear-gradient-7" y1="148.25" x2="80" y2="148.25" xlink:href="#linear-gradient-5"/>
+  </defs>
+  <title>column-alignment-center</title>
+  <g style="isolation: isolate">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <path d="M218,206.75c-40,0-19,22-59,22" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;stroke: url(#linear-gradient)"/>
+        <path d="M218,288.75c-40,0-19-40-59-40" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;stroke: url(#linear-gradient-2)"/>
+        <path d="M260,76.75H180" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;stroke: url(#linear-gradient-3)"/>
+        <path d="M243,380.75c-40,0-31,20-71,20" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;stroke: url(#linear-gradient-4)"/>
+        <text transform="translate(89.74 482.43)" style="font-size: 12px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">max width<tspan x="0" y="14.4">of all elements</tspan><tspan x="0" y="28.8">in column</tspan></text>
+        <text transform="translate(81.89 342.43)" style="font-size: 9px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">b</text>
+        <text transform="translate(172.89 342.43)" style="font-size: 9px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">b</text>
+        <g>
+          <line x1="88.24" y1="466.25" x2="171.76" y2="466.25" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+          <polygon points="90.08 468.95 80 466.25 90.08 463.55 90.08 468.95" style="fill: #ef6466"/>
+          <polygon points="169.92 468.95 180 466.25 169.92 463.55 169.92 468.95" style="fill: #ef6466"/>
+        </g>
+        <line x1="80" y1="471.75" x2="80" y2="461.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        <line x1="180" y1="471.75" x2="180" y2="461.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        <line x1="130" y1="471.75" x2="130" y2="461.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        <rect x="80" y="15.75" width="100" height="123" rx="2" ry="2" style="fill: #9b9da0"/>
+        <path d="M0,238.75H101" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;opacity: 0.5;stroke: url(#linear-gradient-5)"/>
+        <path d="M0,258.75c50,0,39,142,89,142" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;opacity: 0.5;stroke: url(#linear-gradient-6)"/>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(118.3 89.15)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">A</text>
+          </g>
+          <text transform="translate(117.3 88.15)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">A</text>
+        </g>
+        <g>
+          <rect x="101" y="188.75" width="58" height="100" rx="2" ry="2" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(118.97 250.65)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">B</text>
+            </g>
+            <text transform="translate(117.97 249.65)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">B</text>
+          </g>
+        </g>
+        <g>
+          <path d="M169.5,441.75h-79a2,2,0,0,1-2-2v-79a2,2,0,0,1,2-2h79a3,3,0,0,1,2.5,2v79A3,3,0,0,1,169.5,441.75Z" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(119.01 412.15)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">C</text>
+            </g>
+            <text transform="translate(118.01 411.15)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">C</text>
+          </g>
+        </g>
+        <line x1="80" y1="0.75" x2="80" y2="456.75" style="fill: none;stroke: #fcb03c;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <line x1="180" y1="0.75" x2="180" y2="456.75" style="fill: none;stroke: #fcb03c;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <path d="M0,218.75c50,0,30-141,80-141" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;opacity: 0.5;stroke: url(#linear-gradient-7)"/>
+        <g>
+          <line x1="83.21" y1="348.25" x2="85.79" y2="348.25" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <polygon points="83.71 348.98 81 348.25 83.71 347.52 83.71 348.98" style="fill: #ef6466"/>
+          <polygon points="85.29 348.98 88 348.25 85.29 347.52 85.29 348.98" style="fill: #ef6466"/>
+        </g>
+        <line x1="80" y1="353.75" x2="80" y2="343.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <line x1="88.5" y1="353.75" x2="88.5" y2="343.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        <text transform="translate(87.89 174.34)" style="font-size: 9px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">a</text>
+        <g>
+          <line x1="82.21" y1="178.25" x2="98.79" y2="178.25" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <polygon points="82.71 178.98 80 178.25 82.71 177.52 82.71 178.98" style="fill: #ef6466"/>
+          <polygon points="98.29 178.98 101 178.25 98.29 177.52 98.29 178.98" style="fill: #ef6466"/>
+        </g>
+        <line x1="80" y1="183.75" x2="80" y2="173.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <line x1="101" y1="183.75" x2="101" y2="173.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        <g>
+          <line x1="176.79" y1="349.25" x2="174.21" y2="349.25" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <polygon points="176.29 348.52 179 349.25 176.29 349.98 176.29 348.52" style="fill: #ef6466"/>
+          <polygon points="174.71 348.52 172 349.25 174.71 349.98 174.71 348.52" style="fill: #ef6466"/>
+        </g>
+        <line x1="180" y1="343.75" x2="180" y2="353.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <line x1="171.5" y1="343.75" x2="171.5" y2="353.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        <text transform="translate(166.89 174.34)" style="font-size: 9px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">a</text>
+        <g>
+          <line x1="177.79" y1="179.25" x2="161.21" y2="179.25" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+          <polygon points="177.29 178.52 180 179.25 177.29 179.98 177.29 178.52" style="fill: #ef6466"/>
+          <polygon points="161.71 178.52 159 179.25 161.71 179.98 161.71 178.52" style="fill: #ef6466"/>
+        </g>
+        <line x1="180" y1="173.75" x2="180" y2="183.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <line x1="159" y1="173.75" x2="159" y2="183.75" style="fill: none;stroke: #ef6466;stroke-miterlimit: 10"/>
+        <g style="opacity: 0.6000000000000001">
+          <g>
+            <line x1="130" y1="0.75" x2="130" y2="3.25" style="fill: none;stroke: #42a1ba;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+            <line x1="130" y1="8.43" x2="130" y2="52.5" style="fill: none;stroke: #42a1ba;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px;stroke-dasharray: 41.47126388549805,5.183907985687256"/>
+            <line x1="130" y1="55.09" x2="130" y2="451.66" style="fill: none;stroke: #42a1ba;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px;stroke-dasharray: 5.183907985687256,5.183907985687256,41.47126388549805,5.183907985687256"/>
+            <line x1="130" y1="454.25" x2="130" y2="456.75" style="fill: none;stroke: #42a1ba;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

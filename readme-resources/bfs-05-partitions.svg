@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680.75" height="510.3" viewBox="0 0 680.75 510.3">
+  <title>bfs-05-partitions</title>
+  <g style="isolation: isolate">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <line x1="230" y1="107.3" x2="342.28" y2="107.3" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="338.32 113.11 360 107.3 338.32 101.49 338.32 113.11" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="410" y1="107.3" x2="522.28" y2="107.3" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="518.32 113.11 540 107.3 518.32 101.49 518.32 113.11" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="590" y1="287.3" x2="590" y2="175.02" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="595.81 178.98 590 157.3 584.19 178.98 595.81 178.98" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="230" y1="107.3" x2="357.17" y2="209.22" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="350.45 211.27 371 220.3 357.71 202.2 350.45 211.27" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="410" y1="252.3" x2="535.15" y2="152.35" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="535.68 159.37 549 141.3 528.43 150.29 535.68 159.37" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="410" y1="403.3" x2="535.15" y2="303.35" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="535.68 310.37 549 292.3 528.43 301.29 535.68 310.37" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="230" y1="256.3" x2="357.27" y2="360.1" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="350.52 362.1 371 371.3 357.87 353.09 350.52 362.1" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="50" y1="110.3" x2="162.28" y2="110.3" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="158.32 116.11 180 110.3 158.32 104.49 158.32 116.11" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <line x1="50" y1="110.3" x2="177.36" y2="215.98" style="fill: none;stroke: #2cc1f0;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <polygon points="170.6 217.92 191 227.3 178.03 208.98 170.6 217.92" style="fill: #2cc1f0"/>
+        </g>
+        <g>
+          <g>
+            <path d="M50,153.3a45.5,45.5,0,1,1,45.5-45.5A45.55,45.55,0,0,1,50,153.3Z" style="fill: #9b9da0"/>
+            <path d="M50,66.8a41,41,0,1,1-41,41,41,41,0,0,1,41-41m0-9a50,50,0,1,0,50,50,50,50,0,0,0-50-50Z" style="fill: #4d4d4d"/>
+          </g>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(38.29 119.7)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">A</text>
+            </g>
+            <text transform="translate(37.29 118.7)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">A</text>
+          </g>
+        </g>
+        <g>
+          <rect x="180" y="57.8" width="100" height="100" rx="50" ry="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(218.97 119.7)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">B</text>
+            </g>
+            <text transform="translate(217.97 118.7)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">B</text>
+          </g>
+        </g>
+        <g>
+          <rect x="180" y="207.3" width="100" height="100" rx="50" ry="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(218.76 269.2)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">C</text>
+            </g>
+            <text transform="translate(217.76 268.2)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">C</text>
+          </g>
+        </g>
+        <g>
+          <rect x="540" y="57.8" width="100" height="100" rx="50" ry="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(578.29 119.7)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">G</text>
+            </g>
+            <text transform="translate(577.29 118.7)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">G</text>
+          </g>
+        </g>
+        <g>
+          <rect x="540" y="207.3" width="100" height="100" rx="50" ry="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(577.9 269.2)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">H</text>
+            </g>
+            <text transform="translate(576.9 268.2)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">H</text>
+          </g>
+        </g>
+        <g>
+          <rect x="360" y="52.8" width="100" height="100" rx="50" ry="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(398.94 114.7)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">D</text>
+            </g>
+            <text transform="translate(397.94 113.7)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">D</text>
+          </g>
+        </g>
+        <g>
+          <rect x="360" y="202.3" width="100" height="100" rx="50" ry="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(400.57 264.2)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">E</text>
+            </g>
+            <text transform="translate(399.57 263.2)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">E</text>
+          </g>
+        </g>
+        <g>
+          <rect x="360" y="353.3" width="100" height="100" rx="50" ry="50" style="fill: #9b9da0"/>
+          <g style="opacity: 0.6000000000000001">
+            <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+              <text transform="translate(400.8 415.2)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">F</text>
+            </g>
+            <text transform="translate(399.8 414.2)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">F</text>
+          </g>
+        </g>
+        <line x1="135" y1="14.3" x2="135" y2="464.3" style="fill: none;stroke: #fcb03c;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <line x1="320" y1="14.3" x2="320" y2="464.3" style="fill: none;stroke: #fcb03c;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <line x1="500" y1="14.3" x2="500" y2="464.3" style="fill: none;stroke: #fcb03c;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <text transform="translate(20.16 10.28)" style="font-size: 12px;fill: #fcc134;font-family: OpenSans-Extrabold, Open Sans;font-weight: 700">1. column</text>
+        <text transform="translate(200.16 10.28)" style="font-size: 12px;fill: #fcc134;font-family: OpenSans-Extrabold, Open Sans;font-weight: 700">2. column</text>
+        <text transform="translate(380.16 10.28)" style="font-size: 12px;fill: #fcc134;font-family: OpenSans-Extrabold, Open Sans;font-weight: 700">3. column</text>
+        <line x1="680" y1="14.3" x2="680" y2="464.3" style="fill: none;stroke: #fcb03c;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+        <text transform="translate(560.16 10.28)" style="font-size: 12px;fill: #fcc134;font-family: OpenSans-Extrabold, Open Sans;font-weight: 700">4. column</text>
+        <text transform="translate(536.74 485.9)" style="font-size: 16.472517013549805px;fill: #ef6466;font-family: OpenSans-SemiboldItalic, Open Sans;font-weight: 700;font-style: italic">normalization<tspan x="15.41" y="19.77">candidate</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

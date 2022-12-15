@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="273" viewBox="0 0 300 273">
+  <defs>
+    <linearGradient id="linear-gradient" x1="100" y1="185" x2="200" y2="185" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcc134"/>
+      <stop offset="1" stop-color="#2cc1f0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="100" y1="94.5" x2="200" y2="94.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#fdfdfd" stop-opacity="0.02"/>
+      <stop offset="0.41" stop-color="#f8f8f8" stop-opacity="0.07"/>
+      <stop offset="0.54" stop-color="#efeff0" stop-opacity="0.16"/>
+      <stop offset="0.66" stop-color="#e2e3e3" stop-opacity="0.29"/>
+      <stop offset="0.77" stop-color="#d1d2d3" stop-opacity="0.46"/>
+      <stop offset="0.87" stop-color="#bdbec0" stop-opacity="0.66"/>
+      <stop offset="0.97" stop-color="#a5a6a9" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#9b9da0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="100" y1="94.5" x2="200" y2="94.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcc134"/>
+      <stop offset="1" stop-color="#ef6466"/>
+    </linearGradient>
+  </defs>
+  <title>two-colored-gradients</title>
+  <g style="isolation: isolate">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <path d="M100,147c50,0,50,76,100,76" style="fill: none;stroke-miterlimit: 10;stroke-width: 20px;opacity: 0.7000000000000001;stroke: url(#linear-gradient)"/>
+        <rect x="200" y="173" width="100" height="100" rx="2" ry="2" style="fill: #2cc1f0"/>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(238.76 234.9)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">C</text>
+          </g>
+          <text transform="translate(237.76 233.9)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">C</text>
+        </g>
+        <rect y="86.5" width="100" height="100" rx="2" ry="2" style="fill: #fcc134"/>
+        <rect x="200" width="100" height="123" rx="2" ry="2" style="fill: #ef6466"/>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(38.29 148.4)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">A</text>
+          </g>
+          <text transform="translate(37.29 147.4)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">A</text>
+        </g>
+        <g style="opacity: 0.6000000000000001">
+          <g style="opacity: 0.30000000000000004;mix-blend-mode: multiply">
+            <text transform="translate(238.97 73.4)" style="font-size: 37.295188903808594px;font-family: Roboto-Black, Roboto">B</text>
+          </g>
+          <text transform="translate(237.97 72.4)" style="font-size: 37.295188903808594px;fill: #fff;font-family: Roboto-Black, Roboto">B</text>
+        </g>
+        <path d="M100,127c50,0,50-65,100-65" style="stroke-miterlimit: 10;stroke-width: 20px;opacity: 0.7000000000000001;fill: url(#linear-gradient-2);stroke: url(#linear-gradient-3)"/>
+      </g>
+    </g>
+  </g>
+</svg>
